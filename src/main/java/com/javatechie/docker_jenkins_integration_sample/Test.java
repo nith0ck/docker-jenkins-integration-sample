@@ -6,8 +6,4 @@ public class Test {
         System.out.println( "Hello!" );
     }
 	
-	public int bug() {
-		int x = "erro";
-		int [3];
-	}
 }
