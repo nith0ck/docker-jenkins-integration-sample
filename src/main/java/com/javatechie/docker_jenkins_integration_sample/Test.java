@@ -26,6 +26,7 @@ public class Test {
     }
 
     public String[] getItems() {
+    String [] test;
     String[] s = new String[ v.size()];
     v.copyInto(s);
     return s;
